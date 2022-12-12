@@ -32,3 +32,20 @@ The ability to work in multitasking mode and sociability allow me to work effect
   - JavaScript + React Course (completed)
 
 ---
+
+### Language Skills:
+
+English - A2/B1
+
+---
+
+### Hard Skills:
+
+- HTML, CSS, SCSS, SASS
+- Gulp, Webpack
+- JavaScript, React, Redux
+- Git, GitHub
+- Sql
+- HTTP(S)
+
+---
