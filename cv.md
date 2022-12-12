@@ -17,3 +17,18 @@
 **GitHub:** https://github.com/Vladeek
 
 ---
+
+### About Myself:
+
+A very sociable person with a lot of enthusiasm and desire to realize himself in this area!
+The ability to work in multitasking mode and sociability allow me to work effectively with large amounts of information, quickly find contact with people and high-quality solutions to complex problems.
+
+---
+
+### Education:
+
+- Udemy
+  - Web Developer 2021 (completed)
+  - JavaScript + React Course (completed)
+
+---
