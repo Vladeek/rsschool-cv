@@ -14,8 +14,30 @@
 
 ---
 
+## Language Skills
+
+- **English B1**
+
+---
+
 ## About Me
 
 Frontend developer with 3+ of commercial experience in the industry. Worked with React.js, Next.js, TypeScript, Redux, Zustand, Git, SCSS, Webpack, etc. Interested in any suggestions. I take my work very seriously. I always finish what I start. I can work as an independent unit, I also know how to work in a team and have no problems in communication with colleagues.
+
+---
+
+## Hard Skills
+
+- **HTML**
+- **CSS (SASS, SCSS, Modules)**
+- **JavaScript**
+- **TypeScript**
+- **ReactJS**
+- **NextJS**
+- **REST API**
+- **Zustand**
+- **SQL**
+- **HTTP**
+- **Git**
 
 ---
