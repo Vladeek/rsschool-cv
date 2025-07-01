@@ -47,14 +47,17 @@ Frontend developer with 3+ of commercial experience in the industry. Worked with
 ### Belarusian State Technological University (BSTU)
 
 **Bachelor’s Degree in Information Security Software for Mobile Systems**
+
 28.08.2019 – 30.06.23
 
 ### Udemy courses
 
 **[Web Developer](https://docs.google.com/document/d/1_de0J1W9Lm31j--G3-smMz6GSI1KvhJXPLsJfnt60bU/edit?tab=t.0)**
+
 31.03.2022
 
 **[Full course on java script + react](https://docs.google.com/document/d/1YxU64RK9af--gFi7j9hsX9L51-5o4J5bwVCDaYGIILY/edit?usp=sharing3-smMz6GSI1KvhJXPLsJfnt60bU/edit)**
+
 16.10.2022
 
 ## Experience
@@ -62,6 +65,7 @@ Frontend developer with 3+ of commercial experience in the industry. Worked with
 ### Frontend Lead — Palessit
 
 Minsk, Belarus
+
 01.04.2023 – Present
 
 **Key Responsibilities:**
@@ -83,6 +87,7 @@ Minsk, Belarus
 ## Code Example
 
 **Task:** Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+
 _Source: Codewars_
 
 ```ts
